@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import Web3 from 'web3';
-import { environment } from '../../../environments/environment';
+import { environment } from '../../../environments/environment.local';
 import {Observable} from 'rxjs';
 
 @Injectable({
